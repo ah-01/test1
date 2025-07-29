@@ -1,4 +1,11 @@
+
 public class B{
 insert into registration)
 }
+
+public class A{
+int x=10
+}
+psvm{
+system.out.println(x)}
 
